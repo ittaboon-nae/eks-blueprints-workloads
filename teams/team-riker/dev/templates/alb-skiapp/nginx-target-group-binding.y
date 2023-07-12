@@ -1,4 +1,4 @@
-apiVersion: elbv2.k8s.aws/v1beta1
+amlapiVersion: elbv2.k8s.aws/v1beta1
 kind: TargetGroupBinding
 metadata:
   name: nginx-ingress-tgb
